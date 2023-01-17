@@ -19,4 +19,4 @@ Build a robot which resembles a little car and uses infrared light sensors to de
 #### The showcase video can be found [here](https://www.youtube.com/watch?v=JXPrWjsa9Xg).
 
 #### Photo of the setup:
-<img src="/line_follower/photo.jpeg?raw=true" width=65% height=65% />
+<img src="/line_follower/photo.jpeg?raw=true" width=25% height=25% />
